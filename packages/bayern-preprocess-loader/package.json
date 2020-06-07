@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "loader-utils": "^2.0.0"
-  }
+  },
+  "gitHead": "eb55a90b0918203a11f07f39645832def4349054"
 }
